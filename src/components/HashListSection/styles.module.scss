@@ -1,0 +1,12 @@
+@import "~styles/variables.scss";
+
+.hash-list-section {
+    &__row {
+        display: flex;
+        color: black;
+    }
+
+    &__hash-index {
+        margin-right: 10px;
+    }
+}
